@@ -1,6 +1,11 @@
 ## Hi there 👋
 im gooodpig
-[![GooodPig's GitHub stats](https://github-readme-stats.vercel.app/api?username=gooodpig)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GooodPig's GitHub stats](https://github-readme-stats.vercel.app/api?username=gooodpig&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooodpig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **gooodpig/gooodpig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
