@@ -47,17 +47,16 @@ Sunday                   32 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 32 mins             ██████████████████░░░░░░░   73.75 % 
-Asymptote                11 mins             ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-GoodPigBlog              44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -76,7 +75,7 @@ Vue                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gooodpig/gooodpig/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2025 18:48:09 UTC
+ Last Updated on 28/08/2025 18:48:23 UTC
 <!--END_SECTION:waka-->
 
 
