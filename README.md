@@ -6,13 +6,13 @@ im gooodpig
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooodpig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2016%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 331.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 77 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,45 +20,6 @@ im gooodpig
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-🌆 Daytime                79 commits          ███████████████░░░░░░░░░░   61.24 % 
-🌃 Evening                29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Tuesday                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Thursday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Friday                   32 commits          ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-Saturday                 24 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Sunday                   32 commits          ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -75,7 +36,7 @@ Vue                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gooodpig/gooodpig/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2025 18:45:45 UTC
+ Last Updated on 30/08/2025 18:44:05 UTC
 <!--END_SECTION:waka-->
 
 
