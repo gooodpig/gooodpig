@@ -14,6 +14,8 @@ im gooodpig
 
 > 📦 331.3 kB Used in GitHub's Storage 
  > 
+> 🏆 77 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -47,18 +49,16 @@ Sunday                   32 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 mins             ███████████████████████░░   93.23 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hexo_automation          11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -77,7 +77,7 @@ Vue                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gooodpig/gooodpig/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2025 18:41:26 UTC
+ Last Updated on 14/09/2025 18:41:54 UTC
 <!--END_SECTION:waka-->
 
 
