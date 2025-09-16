@@ -6,13 +6,13 @@ im gooodpig
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooodpig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2038%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 331.3 kB Used in GitHub's Storage 
+> 📦 331.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 77 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,45 +20,6 @@ im gooodpig
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-🌆 Daytime                85 commits          ████████████████░░░░░░░░░   62.96 % 
-🌃 Evening                29 commits          █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Tuesday                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Thursday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Friday                   32 commits          ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Saturday                 30 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Sunday                   32 commits          ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -75,7 +36,7 @@ Vue                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gooodpig/gooodpig/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2025 18:47:22 UTC
+ Last Updated on 16/09/2025 18:46:57 UTC
 <!--END_SECTION:waka-->
 
 
