@@ -6,7 +6,7 @@ im gooodpig
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooodpig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,16 +49,17 @@ Sunday                   32 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      1 hr 33 mins        ███████████████████████░░   92.53 % 
+BibTeX                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+euclidean_conic          1 hr 41 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -77,7 +78,7 @@ Vue                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gooodpig/gooodpig/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2025 18:45:18 UTC
+ Last Updated on 26/10/2025 18:45:57 UTC
 <!--END_SECTION:waka-->
 
 
