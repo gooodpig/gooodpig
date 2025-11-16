@@ -6,8 +6,6 @@ im gooodpig
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooodpig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2050%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -22,46 +20,6 @@ im gooodpig
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                24 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-🌆 Daytime                101 commits         ████████████████░░░░░░░░░   65.58 % 
-🌃 Evening                29 commits          █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Wednesday                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Friday                   33 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Saturday                 36 commits          ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-Sunday                   32 commits          █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TeX                      33 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-euclidean_conic          32 mins             █████████████████████████   99.53 % 
-general-set-algebra      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-
-💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -78,7 +36,7 @@ Vue                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gooodpig/gooodpig/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 18:45:15 UTC
+ Last Updated on 16/11/2025 18:46:21 UTC
 <!--END_SECTION:waka-->
 
 
