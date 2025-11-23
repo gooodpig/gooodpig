@@ -6,7 +6,7 @@ im gooodpig
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooodpig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,20 +49,19 @@ Sunday                   32 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      4 hrs 41 mins       ████████████████████████░   97.89 % 
-Asymptote                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TeX                      3 hrs 24 mins       █████████████████████████   99.99 % 
+Asymptote                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-speech                   2 hrs 47 mins       ███████████████░░░░░░░░░░   58.46 % 
-research                 1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   38.19 % 
-euclidean_conic          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+research                 1 hr 43 mins        █████████████░░░░░░░░░░░░   50.83 % 
+euclidean_conic          57 mins             ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+speech                   42 mins             █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
 
 💻 Operating System: 
-Windows                  4 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -81,7 +80,7 @@ Vue                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gooodpig/gooodpig/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2025 18:46:51 UTC
+ Last Updated on 23/11/2025 18:46:53 UTC
 <!--END_SECTION:waka-->
 
 
