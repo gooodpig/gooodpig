@@ -49,16 +49,16 @@ Sunday                   32 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-euclidean_conic          17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -77,7 +77,7 @@ Vue                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gooodpig/gooodpig/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2025 18:48:08 UTC
+ Last Updated on 01/12/2025 18:56:42 UTC
 <!--END_SECTION:waka-->
 
 
