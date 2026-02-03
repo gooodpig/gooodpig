@@ -6,6 +6,8 @@ im gooodpig
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooodpig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2029%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -20,6 +22,45 @@ im gooodpig
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+🌆 Daytime                103 commits         ████████████████░░░░░░░░░   65.61 % 
+🌃 Evening                29 commits          █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Wednesday                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Friday                   34 commits          █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+Saturday                 36 commits          ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+Sunday                   33 commits          █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -35,7 +76,7 @@ Vue                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gooodpig/gooodpig/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 18:59:56 UTC
+ Last Updated on 03/02/2026 19:25:52 UTC
 <!--END_SECTION:waka-->
 
 
