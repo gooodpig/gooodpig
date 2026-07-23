@@ -6,13 +6,11 @@ im gooodpig
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooodpig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2029%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 332.1 kB Used in GitHub's Storage 
+> 📦 333.8 kB Used in GitHub's Storage 
  > 
 > 🏆 10 Contributions in the Year 2026
  > 
@@ -20,7 +18,7 @@ im gooodpig
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -64,8 +62,9 @@ No Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     5 repos             ████████████████░░░░░░░░░   62.50 % 
-TeX                      3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+HTML                     5 repos             ██████████████░░░░░░░░░░░   55.56 % 
+TeX                      3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Shell                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
@@ -75,7 +74,7 @@ TeX                      3 repos             █████████░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gooodpig/gooodpig/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 19:52:17 UTC
+ Last Updated on 23/07/2026 19:55:12 UTC
 <!--END_SECTION:waka-->
 
 
