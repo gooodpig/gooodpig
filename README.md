@@ -6,7 +6,9 @@ im gooodpig
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooodpig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%207%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -61,6 +63,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -76,7 +84,7 @@ Shell                    1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gooodpig/gooodpig/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:43:34 UTC
+ Last Updated on 27/07/2026 20:03:42 UTC
 <!--END_SECTION:waka-->
 
 
