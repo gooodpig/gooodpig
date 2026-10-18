@@ -14,7 +14,7 @@ im gooodpig
 
 **🐱 My GitHub Data** 
 
-> 📦 328.0 kB Used in GitHub's Storage 
+> 📦 328.6 kB Used in GitHub's Storage 
  > 
 > 🏆 28 Contributions in the Year 2026
  > 
@@ -22,7 +22,7 @@ im gooodpig
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -72,11 +72,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-TeX                      3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+TeX                      3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
@@ -86,7 +86,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/gooodpig/gooodpig/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:48:43 UTC
+ Last Updated on 18/10/2026 20:57:46 UTC
 <!--END_SECTION:waka-->
 
 
